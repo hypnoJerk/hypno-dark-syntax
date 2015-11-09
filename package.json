@@ -1,7 +1,7 @@
 {
   "name": "hypno-dark-syntax",
   "theme": "syntax",
-  "version": "1.1.1",
+  "version": "0.0.1",
   "description": "A dark syntax theme",
   "keywords": [
     "dark",
@@ -11,6 +11,6 @@
   "repository": "https://github.com/atom/hypno-dark-syntax",
   "license": "MIT",
   "engines": {
-    "atom": ">0.0.0"
+    "atom": ">1.1.0"
   }
 }
