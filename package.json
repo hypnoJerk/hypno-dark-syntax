@@ -1,11 +1,7 @@
 {
   "name": "hypno-dark-syntax",
   "theme": "syntax",
-<<<<<<< HEAD
-  "version": "0.0.1",
-=======
   "version": "1.2.0",
->>>>>>> refs/remotes/atom/master
   "description": "A dark syntax theme",
   "keywords": [
     "dark",
